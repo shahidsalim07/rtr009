@@ -1,2 +1,2 @@
-# rtr009
+# RTR105
 e-diary of computer studies basic course 
